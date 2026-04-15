@@ -1,0 +1,14 @@
+{
+  "run_id": "s2-inject-pass",
+  "run_timestamp": "2026-04-15T07:45:37.395591+00:00",
+  "raw_path": "data\\raw\\policy_export_dirty.csv",
+  "raw_records": 10,
+  "cleaned_records": 4,
+  "quarantine_records": 6,
+  "latest_exported_at": "2026-04-10T08:00:00Z",
+  "no_refund_fix": true,
+  "skipped_validate": false,
+  "cleaned_csv": "artifacts\\cleaned\\cleaned_s2-inject-pass.csv",
+  "chroma_path": "./chroma_db",
+  "chroma_collection": "day10_kb"
+}
